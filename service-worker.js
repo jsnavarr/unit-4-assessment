@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "%3Cyour%20github%20username%3E.github.io/unit-4-assessment/precache-manifest.d84b0ba4fd33f7dc81780b4b9030b32a.js"
+  "/unit-4-assessment/precache-manifest.2d7e970afb8ff000c9ea1406fcadd9fe.js"
 );
 
 workbox.clientsClaim();
@@ -28,7 +28,7 @@ self.__precacheManifest = [].concat(self.__precacheManifest || []);
 workbox.precaching.suppressWarnings();
 workbox.precaching.precacheAndRoute(self.__precacheManifest, {});
 
-workbox.routing.registerNavigationRoute("%3Cyour%20github%20username%3E.github.io/unit-4-assessment/index.html", {
+workbox.routing.registerNavigationRoute("/unit-4-assessment/index.html", {
   
   blacklist: [/^\/_/,/\/[^\/]+\.[^\/]+$/],
 });
