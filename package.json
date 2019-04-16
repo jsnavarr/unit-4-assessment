@@ -1,4 +1,5 @@
 {
+  "homepage": "https://jsnavarr.github.io/unit-4-assessment",
   "name": "unit-4-assessment",
   "version": "0.1.0",
   "private": true,
@@ -24,6 +25,5 @@
     "not dead",
     "not ie <= 11",
     "not op_mini all"
-  ],
-  "homepage": "https://<your github username>.github.io/unit-4-assessment"
+  ]
 }
